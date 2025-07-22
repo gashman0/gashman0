@@ -1,11 +1,14 @@
-## Hi there 👋, I'm Victor Tochukwu Agashi
+# <div align="center"> Hi there 👋, I'm Victor Tochukwu Agashi </div>
+
+<h3 align="center">  Frontend Developer | React.js and JavaScript | Learning Full-Stack</h3>
+
 
 <!--
-**gashman0/gashman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gashman0/gashman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.ljdojgonwge;so o eofweion w in wig 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...l
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
